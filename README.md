@@ -1,4 +1,4 @@
-### Hi there 👋
+### I'm [Lax](https://laxman.tech)
 
 <!--
 **0xlax/0xlax** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
